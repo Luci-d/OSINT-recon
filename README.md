@@ -46,6 +46,6 @@ IPv4 hosts, sub/domains/whois, ports/banners/protocols, technologies, OS, AS, wi
  * [ASlookup](https://aslookup.com/) - Wide autonomous system lookup that shows bunch of additional data like: Organization, Domains on AS, Related ASNs, IPv4/IPv6 ranges, WHOIS
  * [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
  
- ## [↑](#contents) DNS Lookup
+ ## [↑](#contents) Email
  
   * [Hunter](https://hunter.io/) - one of the best from email hunters 
