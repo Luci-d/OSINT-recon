@@ -17,7 +17,9 @@
 
 ## [↑](#contents) Hosts/Ports
  
- * [Spyse](https://spyse.com/) - 
+ * [Spyse](https://spyse.com/) - a new search engine that provides fresh and precise data about different parts of the Internet. The data storeed in their own database so there is no need to wait for tedious scan. 
+They provide following data:
+IPv4 hosts, sub/domains/whois, ports/banners/protocols, technologies, OS, AS, wide SSL/TLS DB and more.
  * [Zoomeye](http://www.zoomeye.org/) - ZoomEye is a Cyberspace Search Engine recording information of devices, websites, services and components etc.
  * [Nmap](https://nmap.org/download.html) - everyone knows it. It's a free and open-source network scanner for probing computer networks, including host, service discovery and operating system detection. 
 
