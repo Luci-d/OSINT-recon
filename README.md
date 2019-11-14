@@ -13,7 +13,7 @@
 - [Email](#-email)
 
 
-## Feel free to contribute but read the rules before.
+## Feel free to contribute but read the [rules](./Contribution.md) before. 
 
 ## [↑](#contents) Hosts/Ports
  
