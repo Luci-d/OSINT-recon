@@ -1,6 +1,6 @@
 # OSINT-recon
 
-[<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
+<img src="https://i1.wp.com/st.nshc.net/wp-content/uploads/sites/2/2018/07/osint-banner36.jpg?fit=1500%2C430&ssl=1" align="center" width="100%">
 
 
 ## Table of Contents
