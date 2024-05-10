@@ -1,6 +1,6 @@
 # OSINT-recon
 
-<img src="https://patch-shop.com/public/cache/image/seo/osint-patch-antsiuvas-e997bf.jpg" align="center" width="100%">
+<img src="https://patch-shop.com/public/cache/image/seo/osint-patch-antsiuvas-e997bf.jpg" align="center" width="30%">
 
 
 ## Table of Contents
